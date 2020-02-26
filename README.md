@@ -1,5 +1,7 @@
 ## Civs - Complete RPG Plugin
 
+**THIS IS A FORK MADE FOR CRACKED SERVERS. I RECOMMEND GIVING MOJANG YOUR MONEY**
+
 **What is Civs?** Civs is a comprehensive, highly configurable RPG mechanics plugin. Mainly focused on Land Management via Towns and Regions. Also includes a robust class system.
 
 ---
